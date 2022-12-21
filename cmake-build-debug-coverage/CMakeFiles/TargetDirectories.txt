@@ -1,0 +1,3 @@
+C:/Users/s22835/Downloads/newproject/cmake-build-debug-coverage/CMakeFiles/ocvdemo.dir
+C:/Users/s22835/Downloads/newproject/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+C:/Users/s22835/Downloads/newproject/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
